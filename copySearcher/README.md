@@ -1,0 +1,1 @@
+copySearcher — search for copies in chosen directory.
